@@ -6,9 +6,7 @@ This privacy policy applies to the Love2d-Engine app for mobile devices, togethe
 
 The Application collects information when you download and use it. This information may include information such as
 
-*   Your device's Internet Protocol address
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
+*   Your device's IP address
 *   your mobile operating system you use
 
 **Cookies and tracking technologies**
